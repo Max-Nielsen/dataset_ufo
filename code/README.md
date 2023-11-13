@@ -1,2 +1,2 @@
-# dataset_ufo
-this is the decription of dataset_ufo
+# dataset_imdb/code
+Web scraping code used to create the dataset.
